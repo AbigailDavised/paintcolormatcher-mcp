@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.paintcolormatcher/mcp)](https://mcptry.com/servers/com.paintcolormatcher/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/paintcolormatcher-scientific-paint-color-hex-mcp/card.svg)](https://mcprush.com/to/paintcolormatcher-scientific-paint-color-hex-mcp?ref=badge)
 
 [![Official Website](https://img.shields.io/badge/Website-paintcolormatcher.com-blue)](https://paintcolormatcher.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.paintcolormatcher%2Fmcp-green)](https://www.mcptry.com/servers/com.paintcolormatcher/mcp)
