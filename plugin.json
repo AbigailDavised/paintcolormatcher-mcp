@@ -1,16 +1,32 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "paintcolormatcher",
-  "version": "1.0.2",
-  "description": "Match HEX codes & find cross-brand paint equivalents across Sherwin-Williams, Benjamin Moore & Behr.",
+  "version": "1.0.3",
+  "description": "Official stateless MCP server for PaintColorMatcher.com — perceptual CIEDE2000 Delta-E HEX-to-paint swatch matcher, cross-brand paint equivalent finder, and LRV lighting analyzer.",
   "homepage": "https://paintcolormatcher.com",
   "repository": "https://github.com/AbigailDavised/paintcolormatcher-mcp",
   "license": "MIT",
   "author": {
-    "name": "PaintColorMatcher",
+    "name": "Abigail Davised",
+    "email": "admin@paintcolormatcher.com",
     "url": "https://paintcolormatcher.com"
   },
-  "mcpServers": "./mcp.json",
-  "skills": [
-    "./skills/paintcolormatcher"
-  ]
+  "keywords": [
+    "paint-colors",
+    "ciede2000",
+    "delta-e",
+    "colorimetry",
+    "lrv",
+    "interior-design",
+    "mcp"
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "paintcolormatcher": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
