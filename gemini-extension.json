@@ -1,0 +1,11 @@
+{
+  "name": "paintcolormatcher",
+  "version": "1.0.2",
+  "description": "Match HEX codes & find cross-brand paint equivalents across Sherwin-Williams, Benjamin Moore & Behr.",
+  "mcpServers": {
+    "paintcolormatcher": {
+      "type": "http",
+      "url": "https://paintcolormatcher.com/api/mcp"
+    }
+  }
+}

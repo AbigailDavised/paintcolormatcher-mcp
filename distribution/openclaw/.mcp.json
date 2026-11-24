@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paintcolormatcher": {
+      "url": "https://paintcolormatcher.com/api/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}

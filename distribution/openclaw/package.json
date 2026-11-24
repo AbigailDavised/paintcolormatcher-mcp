@@ -1,0 +1,11 @@
+{
+  "name": "@paintcolormatcher/openclaw-mcp",
+  "version": "1.0.2",
+  "description": "PaintColorMatcher remote MCP integration for OpenClaw",
+  "homepage": "https://paintcolormatcher.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbigailDavised/paintcolormatcher-mcp",
+    "directory": "distribution/openclaw"
+  }
+}

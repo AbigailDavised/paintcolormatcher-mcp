@@ -97,7 +97,7 @@ Verified Production Response:
       "lrv": 75.27,
       "undertone": "Cool Coastal Blue-Grey",
       "deltaE2000": 1.18,
-      "url": "https://paintcolormatcher.com/cascade-white-2127-70"
+      "url": "https://paintcolormatcher.com/hex-to-paint-color?hex=dde2e3"
     }
   ],
   "source": "https://paintcolormatcher.com/hex-to-paint-color?hex=DCE3E6"
@@ -137,10 +137,10 @@ npx paintcolormatcher-cli demo
 | 深度功能模块 | 官方规范绝对 URL | 锚文本标准 (Anchor Text) | 核心能力与室内设计应用场景 |
 | :--- | :--- | :--- | :--- |
 | **实景照片墙面色彩智能取色器**| `https://paintcolormatcher.com` | Photo Wall Paint Color Matcher & Eyedropper | 上传居室实拍照，自适应过滤阴影与高光杂斑，精准提取并匹配最近商业涂料色号 |
-| **HEX / RGB 网页色转涂料色卡**| `https://paintcolormatcher.com/hex-converter` | HEX / RGB to Paint Brand Swatch Converter | 将网页设计十六进制色彩（如 `#E8E4DF`）秒级转换为宣伟、本杰明摩尔真实漆号 |
-| **跨品牌涂料色号无损等效矩阵**| `https://paintcolormatcher.com/brands` | Cross-Brand Paint Color Equivalency Matrix | 在 Sherwin-Williams、Benjamin Moore、Behr、Valspar 之间寻找替代色（$\Delta E < 1.5$） |
-| **全美设计师 TOP 500 经典色典**| `https://paintcolormatcher.com/top-500` | Top 500 Architectural Designer Paint Colors Catalog | 汇总高频高级中性色、奶油白、冷暖灰与燕麦色，附带精确光反射值 (LRV) 指标 |
-| **建筑室内分室涂装计划表生成**| `https://paintcolormatcher.com/schedule` | Room-by-Room Paint Schedule & Sheen Specifier | 区分客餐厅、厨卫、踢脚线与天花板，指定哑光/蛋壳光/半光漆面，导出专业承包商施工单 |
+| **HEX / RGB 网页色转涂料色卡**| `https://paintcolormatcher.com/hex-to-paint-color` | HEX / RGB to Paint Brand Swatch Converter | 将网页设计十六进制色彩（如 `#E8E4DF`）秒级转换为宣伟、本杰明摩尔真实漆号 |
+| **跨品牌涂料色号无损等效矩阵**| `https://paintcolormatcher.com/sherwin-williams-paint-colors` | Cross-Brand Paint Color Equivalency Matrix | 在 Sherwin-Williams、Benjamin Moore、Behr、Valspar 之间寻找替代色（$\Delta E < 1.5$） |
+| **全美设计师 TOP 500 经典色典**| `https://paintcolormatcher.com/benjamin-moore-paint-colors` | Top 500 Architectural Designer Paint Colors Catalog | 汇总高频高级中性色、奶油白、冷暖灰与燕麦色，附带精确光反射值 (LRV) 指标 |
+| **实景照片墙面色彩提取与分析**| `https://paintcolormatcher.com/find-paint-color-from-photo` | Find Paint Color from Room Photo | 上传居室实拍照自动过滤阴影与高光杂斑，匹配最近商业涂料色号与光反射率 (LRV) |
 
 ---
 
